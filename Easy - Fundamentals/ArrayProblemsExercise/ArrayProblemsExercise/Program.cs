@@ -5,7 +5,7 @@ using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExerciseSoln3
+namespace ArrayProblemsExercise
 {
     public class ArrayProblems
     {
@@ -40,10 +40,10 @@ namespace ExerciseSoln3
             var arrayName = new char[realName.Length];
 
             for (var i = 0; i <= realName.Length - 1; i++)
-                arrayName[i] = realName[realName.Length -1 - i];
+                arrayName[i] = realName[realName.Length - 1 - i];
 
             var reversed = new string(arrayName);
-            Console.WriteLine("The reversed name is: "+ reversed);
+            Console.WriteLine("The reversed name is: " + reversed);
 
         }
         public static void Exercise3()
@@ -73,7 +73,7 @@ namespace ExerciseSoln3
             foreach (var str in numbers)
             {
                 Console.WriteLine(str);
-            }            
+            }
         }
         public static void Exercise4()
         {

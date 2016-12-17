@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace ExercisesSoln1
+namespace ConditionalsExercise
 {
     public class Conditionals
     {
@@ -68,7 +68,7 @@ namespace ExercisesSoln1
             else
             {
                 const int demeritPointsPerKm = 5;
-                var demeritPoints = (carSpeed - speedLimit)/ demeritPointsPerKm;
+                var demeritPoints = (carSpeed - speedLimit) / demeritPointsPerKm;
                 Console.WriteLine("Demerit Points: " + demeritPoints);
                 if (demeritPoints > 12)
                     Console.WriteLine("License Suspended");
@@ -78,7 +78,7 @@ namespace ExercisesSoln1
 
     }
 
-    
+
 
     class Program
     {

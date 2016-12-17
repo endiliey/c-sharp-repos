@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{98808C74-BAA7-495D-BA92-A1275423F9D9}</ProjectGuid>
+    <ProjectGuid>{1C6FDE51-7ED1-42A1-AD73-B946E5A1414E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DateTime</RootNamespace>
-    <AssemblyName>DateTime</AssemblyName>
+    <RootNamespace>ControlFlowExercise</RootNamespace>
+    <AssemblyName>ControlFlowExercise</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

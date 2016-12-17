@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace ExerciseSoln2
+namespace ControlFlowExercise
 {
     public class ControlFlow
     {
@@ -14,7 +14,7 @@ namespace ExerciseSoln2
             var count = 0;
             for (var i = 1; i <= 100; i++)
             {
-                if (i%3 == 0)
+                if (i % 3 == 0)
                     count++;
             }
             Console.WriteLine(count);
@@ -61,7 +61,7 @@ namespace ExerciseSoln2
             while (true)
             {
                 var input = Convert.ToInt32(Console.ReadLine());
-                if (input == (int) randomNumber)
+                if (input == (int)randomNumber)
                 {
                     Console.WriteLine("You are correct");
                     break;

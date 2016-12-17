@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseSoln3", "ExerciseSoln3\ExerciseSoln3.csproj", "{10F17462-FB16-4618-B05A-48296A768FA6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayProblemsExercise", "ArrayProblemsExercise\ArrayProblemsExercise.csproj", "{4517931C-D290-4736-BBAA-E87AFC46670B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{10F17462-FB16-4618-B05A-48296A768FA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{10F17462-FB16-4618-B05A-48296A768FA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{10F17462-FB16-4618-B05A-48296A768FA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{10F17462-FB16-4618-B05A-48296A768FA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4517931C-D290-4736-BBAA-E87AFC46670B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4517931C-D290-4736-BBAA-E87AFC46670B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4517931C-D290-4736-BBAA-E87AFC46670B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4517931C-D290-4736-BBAA-E87AFC46670B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

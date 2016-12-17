@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercisesSoln1", "ExercisesSoln1\ExercisesSoln1.csproj", "{34E76257-D95D-42A2-B828-C3A0F0EE8602}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlFlowExercise", "ControlFlowExercise\ControlFlowExercise.csproj", "{1C6FDE51-7ED1-42A1-AD73-B946E5A1414E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{34E76257-D95D-42A2-B828-C3A0F0EE8602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{34E76257-D95D-42A2-B828-C3A0F0EE8602}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{34E76257-D95D-42A2-B828-C3A0F0EE8602}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{34E76257-D95D-42A2-B828-C3A0F0EE8602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C6FDE51-7ED1-42A1-AD73-B946E5A1414E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C6FDE51-7ED1-42A1-AD73-B946E5A1414E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C6FDE51-7ED1-42A1-AD73-B946E5A1414E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C6FDE51-7ED1-42A1-AD73-B946E5A1414E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
