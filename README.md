@@ -6,6 +6,6 @@ Disclaimer : I am aware that my materials might not be free of errors. I intend 
 
 ##List
 1. Udemy - C# Basics
-2. Microsoft Virtual Academy C#
-3. Udemy - C# Intermediate
+2. Udemy - C# Intermediate
+3. Microsoft Virtual Academy C#
 4. Microsoft: DEV204x Programming with C#
